@@ -1,0 +1,22 @@
+
+        body{
+            background-color:#E1D7C6;
+        }
+        
+        .dottedlinehr {
+            border-style: dotted none none;
+            border-color:#ECE8DD;
+            border-width: 5px;
+            width: 4%;
+        }
+
+        h1,h3{
+            color: #85586F;
+        }
+
+        p{
+            color: #85586F;
+        }
+        
+
+    
